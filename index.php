@@ -13,5 +13,5 @@ require 'header.php';
   <span class="list_tugas"> 2 </span>
   <span class="list_tugas"> 3 </span>
   <span class="list_tugas"> 4 </span>
-  <span class="list_tugas"> 7 </span>
+  <span class="list_tugas"> 6 </span>
 </div>
